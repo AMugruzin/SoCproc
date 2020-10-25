@@ -3,7 +3,5 @@
 ## Notes: SoC proc for Seal Twist WoW 2.4.3
 ## Author: TonyM
 ## X-Email: later
-## SavedVariables: SoCproc
-
 
 SoCproc.lua
